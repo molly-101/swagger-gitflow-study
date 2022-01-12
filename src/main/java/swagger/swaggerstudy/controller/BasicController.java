@@ -17,4 +17,5 @@ public class BasicController {
     public String hello2(@RequestParam String param) {
         return param;
     }
+
 }
